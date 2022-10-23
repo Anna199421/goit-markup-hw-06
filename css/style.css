@@ -734,7 +734,7 @@ width: 30px;
 height: 30px;
 border: 1px solid rgba(0, 0, 0, 0.1);
 border-radius: 50%;
-background-color: var(--main-color3);
+background-color: var(--main-color);
 position: absolute;
 right: 8px;
 top: 8px;
@@ -743,7 +743,6 @@ align-items: center;
 justify-content: center;
 cursor: pointer;
 box-sizing: border-box;
-border: 1px solid rgba(0, 0, 0, 0.1);
 fill: currentColor;
 transition: background-color 250ms cubic-beziner(0.4, 0, 0.2, 1);
   }
